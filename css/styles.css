@@ -1,0 +1,40 @@
+nav {
+  background-color: lightgrey;
+  height: 50px;
+}
+.navigation {
+  display: inline-block;
+  text-align: center;
+  padding: 15px;
+  background-color: darkgrey;
+  outline-color: white;
+}
+.navigation a {
+  color: white;
+}
+.topleft {
+  float: left;
+  width: 29%;
+  background-color: lightblue;
+  height: 900px;
+  text-align: center;
+  outline-color: black;
+}
+
+.right {
+  float: right;
+  width: 71%;
+  background-color: lightgreen;
+  height: 900px;
+}
+
+.image {
+  display: inline-block;
+  border-radius: 50px;
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  margin: 25px;
+  margin-top: 400px;
+  margin-left: 120px;
+}
